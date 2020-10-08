@@ -1,0 +1,28 @@
+.box{
+
+    border: black solid;
+    position: absolute;
+    padding: 2rem;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+
+}
+h1{
+    position: absolute;
+    left: 50%;
+    top: 10%;
+    transform: translate(-50%,-50%);
+}
+
+.buttons{
+
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    transform: translate(-50%,-50%);
+}
+.btn{
+    padding: 1rem;
+    margin: 1rem;
+}
